@@ -6,7 +6,7 @@ setup(
     author='aditya-xq',
     author_email='adityavivek.xq@gmail.com',
     description='A lightweight rule based tech content tagging module for Python',
-    packages=[''],
+    packages=['taagging_module'],
     install_requires=[
         'PyYAML',
     ],

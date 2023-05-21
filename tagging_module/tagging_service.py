@@ -1,7 +1,7 @@
 from typing import List
 import os
 
-from tagging_module.tagging_system import TaggingSystem
+from tagging_module.tagging_module import tagging_system
 
 class TaggingService:
     """
@@ -19,4 +19,4 @@ class TaggingService:
 
 
     def assign_tags(self, content: str) -> List[str]:
-        return TaggingSystem.assign_tags(content, self.rules_path)
+        return tagging_system.assign_tags(content, self.rules_path)
