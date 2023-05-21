@@ -1,0 +1,214 @@
+Web:
+  - web
+  - front-end
+  - web design
+  - html
+  - css
+  - javascript
+  - responsive design
+  - user experience
+  - user interface
+  - website optimization
+  - browser compatibility
+  - responsive frameworks
+
+Performance:
+  - memory efficient
+  - memory optimization
+  - scalable architecture
+  - profiling
+  - resource utilization
+  - response time
+  - throughput
+  - latency
+  - bottlenecks
+  - load testing
+  - performance tuning
+  - parallel processing
+  - memory management
+  - cpu utilization
+  - i/o operations
+  - algorithmic complexity
+
+Mobile:
+  - mobile app development
+  - ios development
+  - android development
+  - ios
+  - android
+  - swift
+  - kotlin
+  - objective-C
+  - mobile user interface
+  - mobile user experience
+  - cross-platform development
+  - mobile testing
+  - push notifications
+
+Database:
+  - database management
+  - sql
+  - nosql
+  - relational databases
+  - database design
+  - data modeling
+  - query optimization
+  - data indexing
+  - database administration
+
+Cloud:
+  - cloud computing
+  - amazon web services
+  - aws
+  - microsoft azure
+  - azure
+  - google cloud platform
+  - infrastructure as a service
+  - platform as a service
+  - software as a service
+  - cloud storage
+  - serverless
+  - containerization
+
+AI:
+  - artificial intelligence
+  - machine learning
+  - deep learning
+  - neural networks
+  - natural language processing
+  - nlp
+  - ai
+  - ml
+  - computer vision
+  - data analysis
+  - predictive modeling
+  - reinforcement learning
+  - data preprocessing
+  - model evaluation
+
+DevOps:
+  - devops
+  - continuous integration
+  - continuous delivery
+  - version control
+  - deployment automation
+  - infrastructure as code
+  - monitoring
+  - logging
+  - container orchestration
+
+Testing:
+  - software testing
+  - test automation
+  - testing frameworks
+  - unit testing
+  - integration testing
+  - system testing
+  - performance testing
+  - load testing
+  - test-driven development
+  - behavior-driven development
+
+Security:
+  - cybersecurity
+  - encryption
+  - authentication
+  - network security
+  - secure coding practices
+  - vulnerability assessment
+  - penetration testing
+  - security auditing
+  - identity and access management
+  - security incident response
+
+Backend:
+  - backend development
+  - server-side programming
+  - apis
+  - node.js
+  - ruby on rails
+  - python
+  - java
+  - c#
+  - microservices
+  - performance optimization
+  - caching
+  - database querying
+  - rust
+
+UI/UX:
+  - user interface design
+  - user experience
+  - wireframing
+  - prototyping
+  - interaction design
+  - usability testing
+  - information architecture
+  - visual design
+  - responsive design
+  - mobile app design
+  - user research
+
+Data Science:
+  - data science
+  - data analysis
+  - data visualization
+  - statistical analysis
+  - exploratory data analysis
+  - predictive modeling
+  - data mining
+  - feature engineering
+  - data cleaning
+  - data wrangling
+  - time series analysis
+
+Blockchain:
+  - blockchain technology
+  - smart contracts
+  - decentralized applications
+  - dapp
+  - cryptocurrency
+  - Ethereum
+  - Hyperledger
+  - blockchain security
+  - consensus algorithms
+  - digital identity
+  - tokenization
+  - blockchain scalability
+
+Game Dev:
+  - game development
+  - game design
+  - unity
+  - unreal engine
+  - game physics
+  - 3d modeling
+  - level design
+  - game mechanics
+  - multiplayer games
+  - game optimization
+
+Data Engg:
+  - data engineering
+  - etl
+  - data pipelines
+  - data warehousing
+  - data ingestion
+  - data lakes
+  - data integration
+  - big data processing
+  - apache hadoop
+  - apache spark
+  - data governance
+
+Network:
+  - network administration
+  - network configuration
+  - network monitoring
+  - tcp/ip
+  - dns
+  - dhcp
+  - vpn
+  - firewall management
+  - network troubleshooting
+  - network security
