@@ -4,6 +4,11 @@ A lightweight rule based tech content tagging module for Python
 ## Class Overview
 The `TaggingService` class is designed to provide a tagging service. It uses the `tagging_system` module to assign tags to content based on predefined rules. The tagging rules are specified in a YAML file.
 
+You may directly use it from this repo or install via Pip.
+```
+pip install tagging-module
+```
+
 ## Constructor
 ### `__init__(self, rules_path: str = None)`
 The constructor initializes a `TaggingService` object.
@@ -16,7 +21,7 @@ The constructor initializes a `TaggingService` object.
 
 ### Example
 ```python
-from tagging_module.tagging_module import TaggingService
+from tagging_module.tagging_service import TaggingService
 
 # Using the default rules file path
 service = TaggingService()
@@ -36,7 +41,7 @@ A list of strings representing the assigned tags for the content.
 
 ### Example
 ```python
-from tagging_module.tagging_module import TaggingService
+from tagging_module.tagging_service import TaggingService
 
 # Assuming the rules file contains rules for tagging different types of content
 service = TaggingService()
