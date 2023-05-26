@@ -1,14 +1,15 @@
 from typing import List
 import os
 
-from tagging_module.tagging_module import tagging_system
+from tagging_module.tagging_system import TaggingSystem
 
 class TaggingService:
     """
     A class for providing a tagging service.
     """
 
-    rules_path = "tagging_module/config/rules.yml"
+    package_dir = os.path.dirname(os.path.abspath(__file__))  # Get the absolute path of the package directory
+    rules_path = os.path.join(package_dir, 'config', 'rules.yml')
 
     def __init__(self, rules_path: str = None):
         if rules_path is None:
@@ -19,4 +20,4 @@ class TaggingService:
 
 
     def assign_tags(self, content: str) -> List[str]:
-        return tagging_system.assign_tags(content, self.rules_path)
+        return TaggingSystem.assign_tags(content, self.rules_path)
