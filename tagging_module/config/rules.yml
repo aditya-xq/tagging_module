@@ -5,6 +5,9 @@ Web:
   - html
   - css
   - javascript
+  - typescript
+  - react
+  - svelte
   - responsive design
   - user experience
   - user interface
@@ -80,11 +83,11 @@ AI:
   - ai
   - ml
   - computer vision
-  - data analysis
   - predictive modeling
   - reinforcement learning
-  - data preprocessing
-  - model evaluation
+  - graph neural network
+  - neural network
+  - large language model
 
 DevOps:
   - devops
@@ -135,6 +138,25 @@ Backend:
   - caching
   - database querying
   - rust
+  - system design
+  - scalability
+  - reliability
+  - availability
+  - fault tolerance
+  - load balancing
+  - caching
+  - distributed systems
+  - microservices
+  - service-oriented architecture
+  - database design
+  - data modeling
+  - data replication
+  - data partitioning
+  - sharding
+  - message queues
+  - event-driven architecture
+  - api design
+  - system architecture
 
 UI/UX:
   - user interface design
@@ -161,6 +183,17 @@ Data Science:
   - data cleaning
   - data wrangling
   - time series analysis
+  - statistical modeling
+  - predictive analytics
+  - regression
+  - classification
+  - clustering
+  - feature engineering
+  - anomaly detection
+  - big data
+  - time series analysis
+  - data preprocessing
+  - model evaluation
 
 Blockchain:
   - blockchain technology
@@ -175,6 +208,11 @@ Blockchain:
   - digital identity
   - tokenization
   - blockchain scalability
+  - peer-to-peer networks
+  - trustless
+  - consensus algorithms
+  - Web3 frameworks
+  - decentralized identity
 
 Game Dev:
   - game development
@@ -212,3 +250,92 @@ Network:
   - firewall management
   - network troubleshooting
   - network security
+
+Hardware:
+  - cpu
+  - gpu
+  - motherboard
+  - ram
+  - ssd
+  - hdd
+  - power supply
+  - cooling
+  - peripherals
+  - overclocking
+  - gaming
+  - microcontroller
+  - Arduino
+  - Raspberry Pi
+  - embedded systems
+  - FPGA
+  - sensors
+  - actuators
+  - IoT
+
+Robotics:
+  - autonomous
+  - machine learning
+  - computer vision
+  - control systems
+  - kinematics
+  - dynamics
+  - motion planning
+  - path optimization
+  - sensor fusion
+  - manipulators
+  - mobile robots
+  - aerial robots
+  - humanoid robots
+  - swarm robotics
+  - robot perception
+  - human-robot interaction
+  - robot localization
+  - robot navigation
+
+Coding:
+  - integrated development environment
+  - code editor
+  - version control
+  - git
+  - source code management
+  - debugging
+  - profiling
+  - code review
+  - static code analysis
+  - dependency management
+  - build tools
+  - package managers
+  - documentation generation
+  - task runners
+  - code formatting
+  - linters
+  - api testing
+  - mocking frameworks
+
+Algorithms:
+  - algorithm
+  - data structure
+  - complexity
+  - time complexity
+  - space complexity
+  - sorting
+  - searching
+  - graph algorithms
+  - dynamic programming
+  - greedy algorithms
+  - divide and conquer
+  - backtracking
+  - computational geometry
+  - string algorithms
+  - tree algorithms
+  - hash tables
+  - linked lists
+  - stacks
+  - queues
+  - heaps
+  - binary search
+  - breadth-first search
+  - depth-first search
+  - shortest path
+  - spanning trees
+  - recurrence relations
